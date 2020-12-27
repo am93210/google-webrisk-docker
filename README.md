@@ -5,3 +5,5 @@ A docker image to host Google Safe Browsing Server: https://github.com/google/we
 ```
 docker run -p 8080:80 sam93210/google-webrisk -apikey <APIKEY>
 ```
+
+Thanks
